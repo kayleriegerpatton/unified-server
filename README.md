@@ -23,9 +23,9 @@ Unified is the one-stop-shop where university students can find career developme
 
 ### Project Links
 
-View the [server repo](https://github.com/kayleriegerpatton/unified-server).
+View the [client repo](https://github.com/kayleriegerpatton/unified-client).
 
-View the [client repo](https://github.com/kayleriegerpatton/unified-client)
+View the [server repo](https://github.com/kayleriegerpatton/unified-server).
 
 View the [deployed application](https://unified-education.herokuapp.com/).
 
